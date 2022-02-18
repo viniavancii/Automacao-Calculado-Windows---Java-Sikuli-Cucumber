@@ -1,1 +1,1 @@
-# Automacao-Calculado-Windows---Java-Sikuli-Cucumber
+# Automação da Calculadora do Windows com Java, Cucumber e Sikuli.
